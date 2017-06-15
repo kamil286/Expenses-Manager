@@ -1,0 +1,1 @@
+c:\Project\ExpensesManagerMainModule\ExpensesManager\ExpensesManager.csproj;x86
